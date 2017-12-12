@@ -6,8 +6,8 @@
           <router-link to="#">联系我们</router-link>
       </div>
       <div class="company">
-          <p>联系电话:0755-2 7210948</p>
-          <p>联系地址: 深圳宝安中心区宏发中心大厦2108-2110</p>
+          <p>联系电话:</p>
+          <p>联系地址: </p>
           <p>CopyRight@2017亚华智库</p>
       </div>
   </div>
